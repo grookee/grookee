@@ -19,15 +19,6 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
 
-
-📈 my github stats
-<p align="center"> 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=aunsigned&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
-
-<a href="https://github.com/aunsigned">
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aunsigned&theme=dracula&compact=true" />
-</a>
-
 ---
 
-- ⏰ Updated on Mon, 05 Sep 2022 14:30:51 GMT
+- ⏰ Updated on Mon, 05 Sep 2022 14:33:30 GMT
