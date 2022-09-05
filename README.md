@@ -5,7 +5,7 @@
 i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i love when things go fast so i try to make them fast (i fail most of the time). 
 currently in love with low-level programming while being a noobie
 
----
+</br>
 
 - 💬 ask me about anything [here](https://github.com/aunsigned/aunsigned/issues), i am happy to help
 
