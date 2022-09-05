@@ -12,7 +12,7 @@ const yearProgress = (Date.now() - yearStart) / (yearEnd - yearStart)
 
 function generateProgressBar() {
     const progressBarCapacity = 30
-    const progressBarIndex = parseInt(yearProgress)
+    const progressBarIndex = parseInt(yearProgress + progressBarCapacity)
     const progressBar = 
         "⣿".repeat(progressBarIndex) +
         "_".repeat(progressBarCapacity - progressBarIndex)
