@@ -1,0 +1,33 @@
+<img align="left" src="assets/birb.png">
+
+## Hey there!
+
+i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i love when things go fast so i try to make them fast (i fail most of the time). 
+
+---
+
+- 💬 ask me about anything [here](https://github.com/aunsigned/aunsigned/issues), i am happy to help
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+⏳ Year progress [ ______________________________ ] **67.84%**
+
+---
+
+| 🎵 Now Playing                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+
+
+📈 my github stats
+<p align="center"> 
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=aunsigned&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" />
+
+<a href="https://github.com/aunsigned">
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aunsigned&theme=dracula&compact=true" />
+</a>
+
+---
+
+- ⏰ Updated on Mon, 05 Sep 2022 14:29:22 GMT
