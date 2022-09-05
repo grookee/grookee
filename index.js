@@ -32,6 +32,9 @@ function generateProgressBar() {
                     progressBar: (await generateProgressBar()),
                     time: new Date().toUTCString(),
                 })
+
+                console.log(out)
+
                 fs.writeFileSync("README.md", out)
             })
         } catch (err) {
