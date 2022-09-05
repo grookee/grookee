@@ -20,25 +20,21 @@ function generateProgressBar() {
     return `⏳ Year progress [ ${progressBar} ] **${(yearProgress * 100).toFixed(2)}%**`
 }
 
-(
-    async () => {
-        try {
-            core.notice("Starting")
+try {
+    core.notice("Starting")
 
-            fs.readFile(MUSTACHE_PATH, async (err, data) => {
-                if (err) throw err;
+    fs.readFile(MUSTACHE_PATH, async (err, data) => {
+        if (err) throw err;
 
-                const out = mustache.render(data.toString(), {
-                    progressBar: (await generateProgressBar()),
-                    time: new Date().toUTCString(),
-                })
+        const out = mustache.render(data.toString(), {
+            progressBar: (await generateProgressBar()),
+            time: new Date().toUTCString(),
+        })
 
-                console.log(out)
+        console.log(out)
 
-                fs.writeFileSync("README.md", out)
-            })
-        } catch (err) {
-            core.setFailed(err.message)
-        }
-    } 
-)
+        fs.writeFileSync("README.md", out)
+    })
+} catch (err) {
+    core.setFailed(err.message)
+}
