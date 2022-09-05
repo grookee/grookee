@@ -1,0 +1,32 @@
+name: "README Year Progess Bar"
+
+on: 
+  workflow_dispatch:
+  schedule:
+    - cron: '0 10  * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current repository to master branch 
+        uses: actions/checkout@v1
+      - name: setup NodeJS 16.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: 16.x
+      - name: Cache dependencies
+        uses: actions/cache@v1
+        with: 
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: Install dependencies
+        run: npm install
+      - name: Update README file
+        run: node index.js
+      - name: Commit and push updated README to repo
+        run: |
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -am "bot: update README.md automatically"
+            git push 
