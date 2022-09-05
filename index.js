@@ -31,8 +31,6 @@ try {
             time: new Date().toUTCString(),
         })
 
-        console.log(out)
-
         fs.writeFileSync("README.md", out)
     })
 } catch (err) {
