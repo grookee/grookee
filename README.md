@@ -31,7 +31,7 @@ JSON         1 min           ▒░░░░░░░░░░░░░░░░
 
 | 🎵 Now Playing                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=px8z5sqldmqsdd0khq0q8ecd7&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=px8z5sqldmqsdd0khq0q8ecd7&redirect=true) |
 
 ---
 
