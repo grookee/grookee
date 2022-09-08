@@ -10,29 +10,15 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 
 ---
 
-⏳ Year progress [ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ] **68.34%**
+⏳ Year progress [ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ] **68.61%**
 
 <!--START_SECTION:waka-->
-
-```text
-From: 31 August 2022 - To: 07 September 2022
-
-Total Time: 2 hrs 37 mins
-
-JavaScript   43 mins         ███████░░░░░░░░░░░░░░░░░░   27.37 %
-YAML         32 mins         █████░░░░░░░░░░░░░░░░░░░░   20.59 %
-Markdown     29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
-V            26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.01 %
-Mustache     22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-```
-
 <!--END_SECTION:waka-->
 
 | 🎵 Now Playing                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ |
-| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=px8z5sqldmqsdd0khq0q8ecd7&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=px8z5sqldmqsdd0khq0q8ecd7&redirect=true) |
+| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
 
 ---
 
-- ⏰ Updated on Wed, 07 Sep 2022 10:14:49 GMT
+- ⏰ Updated on Thu, 08 Sep 2022 10:10:24 GMT
