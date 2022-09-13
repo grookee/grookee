@@ -15,16 +15,14 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 September 2022 - To: 11 September 2022
+From: 05 September 2022 - To: 12 September 2022
 
-Total Time: 2 hrs 48 mins
+Total Time: 38 mins
 
-JavaScript   43 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.53 %
-YAML         32 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
-V            30 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
-Markdown     29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
-Mustache     22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-C            4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+V          30 mins         ████████████████████░░░░░   80.46 %
+C          4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
+Makefile   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->
