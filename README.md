@@ -15,7 +15,7 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 September 2022 - To: 14 September 2022
+From: 08 September 2022 - To: 15 September 2022
 
 Total Time: 11 mins
 
