@@ -15,14 +15,7 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 September 2022 - To: 16 September 2022
-
-Total Time: 11 mins
-
-C          4 mins          █████████▒░░░░░░░░░░░░░░░   37.96 %
-V          3 mins          ████████▓░░░░░░░░░░░░░░░░   34.16 %
-Makefile   2 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
-Other      0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
