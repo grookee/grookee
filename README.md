@@ -15,12 +15,12 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 December 2022 - To: 21 December 2022
+From: 15 December 2022 - To: 22 December 2022
 
-Total Time: 4 hrs 14 mins
+Total Time: 3 hrs 59 mins
 
-C++          3 hrs 48 mins   ██████████████████████▒░░   89.75 %
-Other        21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+C++     3 hrs 37 mins   ██████████████████████▓░░   90.59 %
+Other   18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
 ```
 
 <!--END_SECTION:waka-->
