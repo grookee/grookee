@@ -10,18 +10,9 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 
 ---
 
-⏳ Year progress [ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ] **99.02%**
+⏳ Year progress [ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ] **99.29%**
 
 <!--START_SECTION:waka-->
-
-```text
-From: 21 December 2022 - To: 28 December 2022
-
-Total Time: 1 min
-
-Scala   1 min           █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
 
 | 🎵 Now Playing                                                                                                                 |
@@ -31,4 +22,4 @@ Scala   1 min           ██████████████████�
 
 ---
 
-- ⏰ Updated on Wed, 28 Dec 2022 10:08:06 GMT
+- ⏰ Updated on Thu, 29 Dec 2022 10:07:56 GMT
