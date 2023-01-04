@@ -15,11 +15,12 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 December 2022 - To: 02 January 2023
+From: 27 December 2022 - To: 03 January 2023
 
-Total Time: 1 min
+Total Time: 7 mins
 
-Scala   1 min           █████████████████████████   100.00 %
+Rust    5 mins          ████████████████████░░░░░   79.49 %
+Scala   1 min           █████░░░░░░░░░░░░░░░░░░░░   20.51 %
 ```
 
 <!--END_SECTION:waka-->
