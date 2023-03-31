@@ -15,13 +15,11 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 March 2023 - To: 29 March 2023
+From: 23 March 2023 - To: 30 March 2023
 
-Total Time: 23 mins
+Total Time: 0 secs
 
-TypeScript   16 mins         █████████████████▒░░░░░░░   69.65 %
-JSON         2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-Other        2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
