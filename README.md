@@ -14,7 +14,7 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 25 May 2023 - To: 01 June 2023
 
 Total Time: 33 mins
