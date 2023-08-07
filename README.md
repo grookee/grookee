@@ -15,15 +15,15 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2023 - To: 05 August 2023
+From: 30 July 2023 - To: 06 August 2023
 
-Total Time: 2 hrs 28 mins
+Total Time: 2 hrs 33 mins
 
-Python       1 hr 2 mins     ██████████▓░░░░░░░░░░░░░░   42.21 %
-Go           1 hr 1 min      ██████████▒░░░░░░░░░░░░░░   41.49 %
-JSON         13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-TypeScript   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Go           1 hr 6 mins     ███████████░░░░░░░░░░░░░░   43.45 %
+Python       1 hr 2 mins     ██████████▒░░░░░░░░░░░░░░   40.79 %
+JSON         13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+TypeScript   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
