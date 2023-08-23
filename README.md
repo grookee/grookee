@@ -15,15 +15,15 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2023 - To: 21 August 2023
+From: 15 August 2023 - To: 22 August 2023
 
-Total Time: 2 hrs 21 mins
+Total Time: 47 mins
 
-C++          1 hr 33 mins    ████████████████▓░░░░░░░░   66.19 %
-TypeScript   16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
-AutoHotkey   11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
-V            10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
-Crystal      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+TypeScript   16 mins         ████████▓░░░░░░░░░░░░░░░░   35.27 %
+AutoHotkey   11 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.20 %
+V            10 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
+Crystal      4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+C#           3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
 ```
 
 <!--END_SECTION:waka-->
