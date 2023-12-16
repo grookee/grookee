@@ -13,6 +13,16 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 ⏳ Year progress [ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ] **95.73%**
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 08 December 2023 - To: 15 December 2023
+
+Total Time: 26 mins
+
+Assembly   25 mins         ████████████████████████▓   99.11 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+```
+
 <!--END_SECTION:waka-->
 
 | 🎵 Now Playing                                                                                                                 |
