@@ -13,6 +13,16 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 ⏳ Year progress [ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ ] **58.04%**
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 23 July 2024 - To: 30 July 2024
+
+Total Time: 15 mins
+
+TypeScript   13 mins         █████████████████████▒░░░   85.72 %
+TSConfig     2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+```
+
 <!--END_SECTION:waka-->
 
 | 🎵 Now Playing                                                                                                                 |
