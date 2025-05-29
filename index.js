@@ -12,10 +12,11 @@ const yearProgress = (Date.now() - yearStart) / (yearEnd - yearStart)
 
 function generateProgressBar() {
     const progressBarCapacity = 30
-    const progressBarIndex = parseInt(yearProgress + progressBarCapacity)
+    const progressBarIndex = parseInt(yearProgress * progressBarCapacity)
+    
     const progressBar = 
         "⣿".repeat(progressBarIndex) +
-        "_".repeat(progressBarCapacity - progressBarIndex)
+        "⣀".repeat(progressBarCapacity - progressBarIndex)
 
     return `⏳ Year progress [ ${progressBar} ] **${(yearProgress * 100).toFixed(2)}%**`
 }
@@ -23,11 +24,11 @@ function generateProgressBar() {
 try {
     core.notice("Starting")
 
-    fs.readFile(MUSTACHE_PATH, async (err, data) => {
+    fs.readFile(MUSTACHE_PATH, (err, data) => {
         if (err) throw err;
 
         const out = mustache.render(data.toString(), {
-            progressBar: (await generateProgressBar()),
+            progressBar: generateProgressBar(),
             time: new Date().toUTCString(),
         })
 
@@ -35,4 +36,4 @@ try {
     })
 } catch (err) {
     core.setFailed(err.message)
-}
+} 
