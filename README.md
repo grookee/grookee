@@ -15,15 +15,15 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2025 - To: 10 June 2025
+From: 04 June 2025 - To: 11 June 2025
 
-Total Time: 4 hrs 3 mins
+Total Time: 5 hrs 59 mins
 
-Elixir       3 hrs 25 mins   █████████████████████░░░░   84.32 %
-YAML         16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
-Git Config   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-Docker       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-TSConfig     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Elixir       4 hrs 34 mins   ███████████████████░░░░░░   76.35 %
+HTML+EEX     20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+SQL          17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
+YAML         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Git Config   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->
