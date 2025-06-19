@@ -13,6 +13,16 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 ⏳ Year progress [ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ ] **46.42%**
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 11 June 2025 - To: 18 June 2025
+
+Total Time: 7 mins
+
+Elixir   7 mins          ████████████████████████▒   97.73 %
+heex     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+```
+
 <!--END_SECTION:waka-->
 
 | 🎵 Now Playing                                                                                                                 |
