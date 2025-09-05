@@ -15,12 +15,11 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 August 2025 - To: 03 September 2025
+From: 28 August 2025 - To: 04 September 2025
 
-Total Time: 12 mins
+Total Time: 0 secs
 
-Elixir   12 mins         ████████████████████████▓   98.32 %
-heex     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
