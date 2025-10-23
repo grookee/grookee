@@ -15,13 +15,11 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2025 - To: 21 October 2025
+From: 15 October 2025 - To: 22 October 2025
 
-Total Time: 11 mins
+Total Time: 8 mins
 
-Python   8 mins          ██████████████████▒░░░░░░   73.35 %
-CMake    1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
-C++      1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+Python   8 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
