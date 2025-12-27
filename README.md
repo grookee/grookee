@@ -10,18 +10,9 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 
 ---
 
-⏳ Year progress [ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀ ] **98.47%**
+⏳ Year progress [ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀ ] **98.75%**
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 19 December 2025 - To: 26 December 2025
-
-Total Time: 9 mins
-
-JavaScript   9 mins          █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
 
 | 🎵 Now Playing                                                                                                                 |
@@ -31,4 +22,4 @@ JavaScript   9 mins          █████████████████
 
 ---
 
-- ⏰ Updated on Fri, 26 Dec 2025 10:13:36 GMT
+- ⏰ Updated on Sat, 27 Dec 2025 10:12:06 GMT
