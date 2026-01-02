@@ -15,11 +15,11 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2025 - To: 31 December 2025
+From: 25 December 2025 - To: 01 January 2026
 
-Total Time: 30 mins
+Total Time: 20 mins
 
-JavaScript   30 mins         █████████████████████████   100.00 %
+JavaScript   20 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
