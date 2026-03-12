@@ -15,15 +15,11 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 March 2026 - To: 10 March 2026
+From: 04 March 2026 - To: 11 March 2026
 
-Total Time: 56 mins
+Total Time: 0 secs
 
-C++        36 mins               ████████████████░░░░░░░░░   64.04 %
-CMake      10 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
-Markdown   5 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-JSON       4 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-YAML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
