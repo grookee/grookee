@@ -13,6 +13,17 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 ⏳ Year progress [ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ ] **31.63%**
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 18 April 2026 - To: 25 April 2026
+
+Total Time: 3 mins
+
+C++     3 mins                ████████████████████████▓   99.03 %
+JSON    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+CMake   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+```
+
 <!--END_SECTION:waka-->
 
 | 🎵 Now Playing                                                                                                                 |
