@@ -13,6 +13,19 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 ⏳ Year progress [ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ ] **54.37%**
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 10 July 2026 - To: 17 July 2026
+
+Total Time: 1 hr 1 min
+
+Go             33 mins               █████████████▓░░░░░░░░░░░   54.75 %
+JSON           11 mins               █████░░░░░░░░░░░░░░░░░░░░   19.49 %
+go mod         6 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+Bash           4 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
+Markdown       3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+```
+
 <!--END_SECTION:waka-->
 
 | 🎵 Now Playing                                                                                                                 |
