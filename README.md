@@ -15,12 +15,15 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 July 2026 - To: 01 August 2026
+From: 26 July 2026 - To: 02 August 2026
 
-Total Time: 13 mins
+Total Time: 20 mins
 
-Astro   11 mins               ██████████████████████░░░   87.73 %
-JSON    1 min                 ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
+Astro        11 mins               ██████████████▓░░░░░░░░░░   58.46 %
+Markdown     4 mins                █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
+YAML         1 min                 ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+JSON         1 min                 ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+TypeScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
