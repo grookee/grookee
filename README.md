@@ -10,18 +10,9 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 
 ---
 
-⏳ Year progress [ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ ] **60.94%**
+⏳ Year progress [ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀ ] **61.22%**
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 04 August 2026 - To: 11 August 2026
-
-Total Time: 2 mins
-
-PowerShell   2 mins                █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
 
 | 🎵 Now Playing                                                                                                                 |
@@ -31,4 +22,4 @@ PowerShell   2 mins                ███████████████
 
 ---
 
-- ⏰ Updated on Tue, 11 Aug 2026 10:41:05 GMT
+- ⏰ Updated on Wed, 12 Aug 2026 10:51:09 GMT
