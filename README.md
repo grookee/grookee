@@ -10,7 +10,7 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 
 ---
 
-⏳ Year progress [ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀ ] **88.96%**
+⏳ Year progress [ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀ ] **89.24%**
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -22,4 +22,4 @@ i'm a passionate, self-taught programmer also an OSS & privacy enthusiast. i lov
 
 ---
 
-- ⏰ Updated on Sat, 21 Nov 2026 17:00:05 GMT
+- ⏰ Updated on Sun, 22 Nov 2026 17:29:21 GMT
